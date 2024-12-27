@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/26 10:44:47.000.953,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2024/10/26 10:44:47.000.312,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/26 10:51:55.000.970,D:\C++ Builder Projects\Project4.cbproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>2024/10/26 10:51:55.000.861,D:\C++ Builder Projects\Unit2.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/10/26 10:51:55.000.861,D:\C++ Builder Projects\Unit2.cpp=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/26 10:51:55.000.939,D:\C++ Builder Projects\Project4PCH1.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2024/10/26 10:51:55.000.861,D:\C++ Builder Projects\Unit2.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2024/10/26 10:52:09.000.329,D:\C++ Builder Projects\Unit4.cpp=D:\C++ Builder Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/26 10:52:09.000.329,D:\C++ Builder Projects\Unit4.fmx=D:\C++ Builder Projects\Unit2.fmx</Transaction>
+    <Transaction>2024/10/26 10:52:09.000.329,D:\C++ Builder Projects\Unit4.h=D:\C++ Builder Projects\Unit2.h</Transaction>
+  </Transactions>
+</BorlandProject>
